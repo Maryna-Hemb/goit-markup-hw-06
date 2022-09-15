@@ -337,7 +337,6 @@ img {
   min-height: 70px;
   bottom: 0;
   left: 0;
-  z-index: 1;
   padding: 27px;
 
   color: var(--active-button-text-color);
